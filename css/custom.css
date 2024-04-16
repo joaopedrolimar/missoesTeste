@@ -1,0 +1,13 @@
+body{
+    margin: 40px 40px;
+    padding: 0;
+    font-size: 14px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#calendar{
+    max-width: 800px;
+    margin: 0;
+
+}
